@@ -1,0 +1,16 @@
+{
+  "name": "factsmqtt",
+  "version": "1.0.0",
+  "description": "Testing Alexa Skills and MQTT",
+  "main": "index.js",
+  "keywords": [
+    "alexa",
+    "mqtt"
+  ],
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "mqtt": "2.18.3"
+  },
+  "author": "Williammolina",
+  "license": "ISC"
+}
